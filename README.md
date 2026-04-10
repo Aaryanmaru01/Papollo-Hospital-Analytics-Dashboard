@@ -39,7 +39,7 @@
 #### Revenue calculation
 #### Doctor performance tracking
 
-### Link:- https://github.com/Aaryanmaru01/Papollo-Hospital-Analytics-Dashboard/blob/main/Papollo_Hospital(SQL).pdf
+### Link- https://github.com/Aaryanmaru01/Papollo-Hospital-Analytics-Dashboard/blob/main/Papollo_Hospital(SQL).pdf
 
 ### 4️⃣ Data Visualization (Power BI)
 
@@ -64,7 +64,7 @@
 ####👨‍⚕️ Doctors receive balanced feedback (~1K each)
 #### 📉 Blood tests & X-rays generate lower revenue
 
-### Link:- 
+### Link- https://github.com/Aaryanmaru01/Papollo-Hospital-Analytics-Dashboard/blob/main/Papollo(Dashboard).png 
 
 ### 🛠️ Tools & Technologies
 
