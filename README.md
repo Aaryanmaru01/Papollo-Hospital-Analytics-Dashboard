@@ -56,12 +56,12 @@
 #### Horizontal Bar → Diagnosis-wise patient count
 #### Line Chart → Test-wise billing vs insurance trends
 
-###📊 Key Insights
+### 📊 Key Insights
 
 #### 🛏️ Private beds have highest occupancy
 #### 🦠 Viral infections are most common diagnosis
 #### 💰 CT Scan & MRI generate highest revenue
-####👨‍⚕️ Doctors receive balanced feedback (~1K each)
+#### 👨‍⚕️ Doctors receive balanced feedback (~1K each)
 #### 📉 Blood tests & X-rays generate lower revenue
 
 ### Link- https://github.com/Aaryanmaru01/Papollo-Hospital-Analytics-Dashboard/blob/main/Papollo(Dashboard).png 
