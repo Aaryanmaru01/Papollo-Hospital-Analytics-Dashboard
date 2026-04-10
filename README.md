@@ -39,6 +39,8 @@
 #### Revenue calculation
 #### Doctor performance tracking
 
+### Link:- https://github.com/Aaryanmaru01/Papollo-Hospital-Analytics-Dashboard/blob/main/Papollo_Hospital(SQL).pdf
+
 ### 4️⃣ Data Visualization (Power BI)
 
 ### 📊 Key KPIs
